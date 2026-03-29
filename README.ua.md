@@ -1,4 +1,4 @@
-# deadfish-repl ![C](https://img.shields.io/badge/Мова-C-blue?style=flat-square) ![Статус](https://img.shields.io/badge/Статус-Реліз-green?style=flat-square) ![Ліцензія](https://img.shields.io/badge/Ліцензія-CC0-green?style=flat-square) ![Парадигма](https://img.shields.io/badge/Парадигма-Езотеричний-red?style=flat-square) ![Архітектури](https://img.shields.io/badge/Архітектури-14%20Підтримується%20(Майже%2015)-blueviolet?style=flat-square)
+# deadfish-repl ![C](https://img.shields.io/badge/Мова-C-blue?style=flat-square) ![Статус](https://img.shields.io/badge/Статус-Реліз-green?style=flat-square) ![Ліцензія](https://img.shields.io/badge/Ліцензія-CC0-green?style=flat-square) ![Парадигма](https://img.shields.io/badge/Парадигма-Езотерична-red?style=flat-square) ![Архітектури](https://img.shields.io/badge/Архітектури-14%20Підтримується%20(Майже%2015)-blueviolet?style=flat-square)
 Deadfish REPL написаний в C. \
 \
 ([English (US)](README.md))
