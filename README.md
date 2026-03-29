@@ -14,7 +14,11 @@ Deadfish REPL writen in C. \
 | **MIPS** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
 | **MIPSEL** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
 | **PowerPC x32 MSB** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
-| **RISC-V** | ![WIP](https://img.shields.io/badge/-WIP-orange?style=flat-square) |
+| **RISC-V64** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
+| **RISC-V32** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
+| **SPARC** | ![WIP](https://img.shields.io/badge/-WIP-orange?style=flat-square) |
+| **LoongArch 64** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
+| **S390X** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
 
 ## What is this? 
 A simple C program that can execute program writen in esoteric programming language called Deadfish. ([esolangs wiki](https://esolangs.org/wiki/Deadfish))
