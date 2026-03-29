@@ -1,5 +1,7 @@
 # deadfish-repl
-Deadfish REPL writen in C.
+Deadfish REPL writen in C. \
+\
+([Українська мова](README.ua.md))
 ## What is this?
 A simple C program that can execute program writen in esoteric programming language called Deadfish. ([esolangs wiki](https://esolangs.org/wiki/Deadfish))
 
