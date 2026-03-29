@@ -29,7 +29,3 @@ Uses getchar/fgets/getwchr to get the input, printf to print.
 ## Can I port it?
 
 Yes, you can. Infact, if you don't have your architecture, port it either using zig, or specific versions of gcc to port it.
-
-## Why is there no license?
-
-Since it is licensed under CC0, and Github doesn't provide abbility to choose CC0 license, I can't pick license
