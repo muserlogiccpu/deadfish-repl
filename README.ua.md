@@ -1,5 +1,7 @@
 # deadfish-repl
-Deadfish REPL написаний в C.
+Deadfish REPL написаний в C. \
+\
+([English (US)](README.md))
 ## Що це таке?
 Маленька C программа, яка може виконувати программу написанну в езотеричної программної мови під назвою Deadfish. ([езолангс  вікі](https://esolangs.org/wiki/Deadfish))
 
