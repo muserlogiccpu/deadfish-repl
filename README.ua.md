@@ -1,7 +1,24 @@
-# deadfish-repl ![C](https://img.shields.io/badge/Language-C-blue?style=flat-square) ![Status](https://img.shields.io/badge/Status-Release-green?style=flat-square) ![License](https://img.shields.io/badge/License-CC0-green?style=flat-square) ![Paradigm](https://img.shields.io/badge/Paradigm-Esoteric-red?style=flat-square)
+# deadfish-repl ![C](https://img.shields.io/badge/Мова-C-blue?style=flat-square) ![Статус](https://img.shields.io/badge/Статус-Реліз-green?style=flat-square) ![Ліцензія](https://img.shields.io/badge/Ліцензія-CC0-green?style=flat-square) ![Парадигма](https://img.shields.io/badge/Парадигма-Езотеричний-red?style=flat-square) ![Архітектури](https://img.shields.io/badge/Архітектури-14%20Підтримується%20(Майже%2015)-blueviolet?style=flat-square)
 Deadfish REPL написаний в C. \
 \
 ([English (US)](README.md))
+| Архітектура | Статус |
+| :--- | :--- |
+| **x86_64** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
+| **x86** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
+| **ARM64** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
+| **ARM32** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
+| **x86_64 Windows** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
+| **x86 Windows** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
+| **WASM32** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
+| **MIPS** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
+| **MIPSEL** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
+| **PowerPC x32 MSB** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
+| **RISC-V64** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
+| **RISC-V32** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
+| **SPARC** | ![Незавершено](https://img.shields.io/badge/-Незавершено-orange?style=flat-square) |
+| **LoongArch 64** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
+| **S390X** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
 ## Що це таке?
 Маленька C программа, яка може виконувати программу написанну в езотеричної программної мови під назвою Deadfish. ([езолангс  вікі](https://esolangs.org/wiki/Deadfish))
 
