@@ -11,7 +11,16 @@ Since it is very simple, you can pretty much port it to anywhere (to most of the
 
 ## How it works?
 
-It asks for the user input, then compares if the input is a newline/eof, if so, continues, if the instruction is I, it increments the accumulator by one, if it is D, decrements accumulator by one, S squares the value of accumulator, O outputs the value of accumulator **as the number**, H halts, and after any instruction it checks if accumulator is -1 or 256. If so, it makes accumulator to be on zero. (Since there are variations of Deadfish, go to [this page](https://esolangs.org/wiki/Deadfish#Commands), or see this list
+It asks for the user input, \
+- then compares if the input is a newline/eof, if so, continues, \
+- if the instruction is I, it increments the accumulator by one, \
+- if it is D, decrements accumulator by one, \
+- S squares the value of accumulator, \
+- O outputs the value of accumulator **as the number**, \
+- H halts,
+- and after any instruction it checks if accumulator is -1 or 256. If so, it makes accumulator to be on zero. \
+  
+Since there are variations of Deadfish, go to [this page](https://esolangs.org/wiki/Deadfish#Commands), or see this list
 | Variation | Increment | Decrement | Square | Output | Halt (optional) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Standard Deadfish** | `i` | `d` | `s` | `o` | `h` |
@@ -24,7 +33,6 @@ It asks for the user input, then compares if the input is a newline/eof, if so, 
 | **Pește mort variation** | `c` | `s` | `p` | `i` | `o` |
 | **Numbered DeadFish** | `1` | `2` | `3` | `4` | `5` |
 
-)
 
 Uses getchar/fgets/getwchr to get the input, printf to print.
 
