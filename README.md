@@ -24,7 +24,7 @@ It asks for the user input, then compares if the input is a newline/eof, if so, 
 
 )
 
-Uses getchar to get the input, printf to print.
+Uses getchar/fgets/getwchr to get the input, printf to print.
 
 ## Can I port it?
 
