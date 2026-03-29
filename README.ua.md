@@ -1,4 +1,4 @@
-# deadfish-repl
+# deadfish-repl ![C](https://img.shields.io/badge/Language-C-blue?style=flat-square) ![Status](https://img.shields.io/badge/Status-Release-green?style=flat-square) ![License](https://img.shields.io/badge/License-CC0-green?style=flat-square)
 Deadfish REPL написаний в C. \
 \
 ([English (US)](README.md))
@@ -19,8 +19,9 @@ Deadfish REPL написаний в C. \
 - H зупиняє, \
 - та після кожної інструкції перевірює якщо значення акумулятора дорівнює -1 ч 256. Якщо так, змінює значення акумулятора на нуль.
   
-Оскільки існують варіації Deadfish, подивиться [цю сторінку](https://esolangs.org/wiki/Deadfish#Commands), \
-або перегляньте цей список 
+> [!IMPORTANT]
+> Оскільки існують варіації Deadfish, подивиться [цю сторінку](https://esolangs.org/wiki/Deadfish#Commands), або перегляньте цей список
+
 | Варіація | Збільшити | Зменшити | Піднести до квадрата | Вивести | Зупинити (не обов'язково) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Звичайний Deadfish** | `i` | `d` | `s` | `o` | `h` |
@@ -33,8 +34,8 @@ Deadfish REPL написаний в C. \
 | **Pește mort варіація** | `c` | `s` | `p` | `i` | `o` |
 | **Нумерована варіація** | `1` | `2` | `3` | `4` | `5` |
 
-
-Використовує getchar/fgets/getwchr щоб отримати інструкції, printf щоб виводити.
+> [!NOTE]
+> Використовує getchar/fgets/getwchr щоб отримати інструкції, printf щоб виводити.
 
 ## Можу я перенести цю програму?
 
