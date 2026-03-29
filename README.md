@@ -1,5 +1,5 @@
 # deadfish-repl ![C](https://img.shields.io/badge/Language-C-blue?style=flat-square) ![Status](https://img.shields.io/badge/Status-Release-green?style=flat-square) ![License](https://img.shields.io/badge/License-CC0-green?style=flat-square) ![Paradigm](https://img.shields.io/badge/Paradigm-Esoteric-red?style=flat-square) ![Architectures](https://img.shields.io/badge/Architectures-14%20Supported%20(Almost%2015)-blueviolet?style=flat-square)
-Deadfish REPL writen in C. \
+Deadfish REPL written in C. \
 \
 ([Українська мова](README.ua.md)) 
 | Architecture | Status |
