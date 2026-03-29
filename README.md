@@ -1,8 +1,8 @@
-# deadfish-repl
+# deadfish-repl ![C](https://img.shields.io/badge/Language-C-blue?style=flat-square) ![Status](https://img.shields.io/badge/Status-Release-green?style=flat-square) ![License](https://img.shields.io/badge/License-CC0-green?style=flat-square)
 Deadfish REPL writen in C. \
 \
-([Українська мова](README.ua.md))
-## What is this?
+([Українська мова](README.ua.md)) 
+## What is this? 
 A simple C program that can execute program writen in esoteric programming language called Deadfish. ([esolangs wiki](https://esolangs.org/wiki/Deadfish))
 
 It works as an interpreter, meaning it executes specific C code, depending on an instruction that user have provided.
@@ -19,8 +19,9 @@ It asks for the user input, \
 - O outputs the value of accumulator **as the number**, \
 - H halts,
 - and after any instruction it checks if accumulator is -1 or 256. If so, it makes accumulator to be on zero. \
-  
-Since there are variations of Deadfish, go to [this page](https://esolangs.org/wiki/Deadfish#Commands), or see this list
+> [!IMPORTANT]
+> Since there are variations of Deadfish, go to [this page](https://esolangs.org/wiki/Deadfish#Commands), or see this list
+
 | Variation | Increment | Decrement | Square | Output | Halt (optional) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Standard Deadfish** | `i` | `d` | `s` | `o` | `h` |
@@ -33,8 +34,8 @@ Since there are variations of Deadfish, go to [this page](https://esolangs.org/w
 | **Pește mort variation** | `c` | `s` | `p` | `i` | `o` |
 | **Numbered DeadFish** | `1` | `2` | `3` | `4` | `5` |
 
-
-Uses getchar/fgets/getwchr to get the input, printf to print.
+> [!NOTE]
+> Uses getchar/fgets/getwchr to get the input, printf to print.
 
 ## Can I port it?
 
