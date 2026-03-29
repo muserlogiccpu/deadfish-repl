@@ -2,6 +2,20 @@
 Deadfish REPL writen in C. \
 \
 ([Українська мова](README.ua.md)) 
+| Architecture | Status |
+| :--- | :--- |
+| **x86_64** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
+| **x86** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
+| **ARM64** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
+| **ARM32** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
+| **x86_64 Windows** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
+| **x86 Windows** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
+| **WASM32** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
+| **MIPS** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
+| **MIPSEL** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
+| **PowerPC x32 MSB** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
+| **RISC-V** | ![WIP](https://img.shields.io/badge/-WIP-orange?style=flat-square) |
+
 ## What is this? 
 A simple C program that can execute program writen in esoteric programming language called Deadfish. ([esolangs wiki](https://esolangs.org/wiki/Deadfish))
 
