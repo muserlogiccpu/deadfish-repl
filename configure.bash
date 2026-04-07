@@ -210,4 +210,5 @@ if ! command -v zig &> /dev/null; then
   fi
 else
   echo "yes"
+  compile
 fi
