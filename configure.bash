@@ -17,8 +17,8 @@ OUT_DIR="build"
 ARCHS=(
     "x86_64-linux" "x86-linux" "aarch64-linux" "arm-linux-gnueabihf"
     "x86_64-windows" "x86-windows" "wasm32-wasi" "mips-linux"
-    "mipsel-linux" "powerpc-linux" "x86_64-macos" "riscv32-linux"
-    "sparc-linux" "loongarch64-linux" "s390x-linux" "aarch64-macos"
+    "mipsel-linux" "powerpc-linux" "riscv64-linux" "riscv32-linux"
+    "x86_64-macos" "loongarch64-linux" "s390x-linux" "aarch64-macos"
 )
 mkdir -p "$OUT_DIR"
 for arch in "${ARCHS[@]}"; do
