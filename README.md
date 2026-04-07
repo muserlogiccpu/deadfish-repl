@@ -21,6 +21,7 @@ Deadfish REPL written in C. \
 | **S390X** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
 | **x86_64 macOS** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
 | **ARM64 macOS** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
+| **FreeBSD x64** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
 
 ## What is this? 
 A simple C program that can execute program writen in esoteric programming language called Deadfish. ([esolangs wiki](https://esolangs.org/wiki/Deadfish))
