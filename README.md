@@ -1,4 +1,4 @@
-# deadfish-repl ![C](https://img.shields.io/badge/Language-C-blue?style=flat-square) ![Status](https://img.shields.io/badge/Status-Release-green?style=flat-square) ![License](https://img.shields.io/badge/License-CC0-green?style=flat-square) ![Paradigm](https://img.shields.io/badge/Paradigm-Esoteric-red?style=flat-square) ![Architectures](https://img.shields.io/badge/Architectures-14%20Supported%20(Almost%2015)-blueviolet?style=flat-square)
+# deadfish-repl ![C](https://img.shields.io/badge/Language-C-blue?style=flat-square) ![Status](https://img.shields.io/badge/Status-Release-green?style=flat-square) ![License](https://img.shields.io/badge/License-CC0-green?style=flat-square) ![Paradigm](https://img.shields.io/badge/Paradigm-Esoteric-red?style=flat-square) ![Architectures](https://img.shields.io/badge/Architectures-16-blueviolet?style=flat-square)
 Deadfish REPL written in C. \
 \
 ([Українська мова](README.ua.md)) 
@@ -16,9 +16,11 @@ Deadfish REPL written in C. \
 | **PowerPC x32 MSB** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
 | **RISC-V64** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
 | **RISC-V32** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
-| **SPARC** | ![WIP](https://img.shields.io/badge/-WIP-orange?style=flat-square) |
+| **SPARC** | ![Not yet because Zig almost doesn't support it](https://img.shields.io/badge/-Not%20yet%20because%20Zig%20almost%20doesn%27t%20support%20it-red?style=flat-square) |
 | **LoongArch 64** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
 | **S390X** | ![Passing](https://img.shields.io/badge/-Passing-green?style=flat-square) |
+| **x86_64 macOS** | ![Passing](https://img.shields.io/badge/-N%2fA-orange?style=flat-square) |
+| **ARM64 macOS** | ![Passing](https://img.shields.io/badge/-N%2fA-orange?style=flat-square) |
 
 ## What is this? 
 A simple C program that can execute program writen in esoteric programming language called Deadfish. ([esolangs wiki](https://esolangs.org/wiki/Deadfish))
