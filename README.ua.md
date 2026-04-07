@@ -19,8 +19,8 @@ Deadfish REPL написаний в C. \
 | **SPARC** | ![Ще ні, бо Zig майже не підтримує](https://img.shields.io/badge/-Ще%20ні,%20бо%20Zig%20майже%20не%20підтримує-red?style=flat-square) |
 | **LoongArch 64** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
 | **S390X** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
-| **x86_64 macOS** | ![N/A](https://img.shields.io/badge/-N%2fA-orange?style=flat-square) |
-| **x86 macOS** | ![N/A](https://img.shields.io/badge/-N%2fA-orange?style=flat-square) |
+| **x86_64 macOS** | ![Пройдено](https://img.shields.io/badge/-Пройдено-orange?style=flat-square) |
+| **x86 macOS** | ![Пройдено](https://img.shields.io/badge/-Пройдено-orange?style=flat-square) |
 ## Що це таке?
 Маленька C программа, яка може виконувати программу написанну в езотеричної программної мови під назвою Deadfish. ([езолангс  вікі](https://esolangs.org/wiki/Deadfish))
 
