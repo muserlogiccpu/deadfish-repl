@@ -20,7 +20,7 @@ Deadfish REPL написаний в C. \
 | **LoongArch 64** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
 | **S390X** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
 | **x86_64 macOS** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
-| **x86 macOS** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
+| **ARM64 macOS** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
 | **FreeBSD x64** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
 
 ## Що це таке?
