@@ -19,6 +19,7 @@ ARCHS=(
     "x86_64-windows" "x86-windows" "wasm32-wasi" "mips-linux"
     "mipsel-linux" "powerpc-linux" "riscv64-linux" "riscv32-linux"
     "x86_64-macos" "loongarch64-linux" "s390x-linux" "aarch64-macos"
+    "x86_64-freebsd"
 )
 mkdir -p "$OUT_DIR"
 for arch in "${ARCHS[@]}"; do
