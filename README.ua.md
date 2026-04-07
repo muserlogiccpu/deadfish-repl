@@ -1,4 +1,4 @@
-# deadfish-repl ![C](https://img.shields.io/badge/Мова-C-blue?style=flat-square) ![Статус](https://img.shields.io/badge/Статус-Реліз-green?style=flat-square) ![Ліцензія](https://img.shields.io/badge/Ліцензія-CC0-green?style=flat-square) ![Парадигма](https://img.shields.io/badge/Парадигма-Езотерична-red?style=flat-square) ![Архітектури](https://img.shields.io/badge/Архітектури-14%20Підтримується%20(Майже%2015)-blueviolet?style=flat-square)
+# deadfish-repl ![C](https://img.shields.io/badge/Мова-C-blue?style=flat-square) ![Статус](https://img.shields.io/badge/Статус-Реліз-green?style=flat-square) ![Ліцензія](https://img.shields.io/badge/Ліцензія-CC0-green?style=flat-square) ![Парадигма](https://img.shields.io/badge/Парадигма-Езотерична-red?style=flat-square) ![Архітектури](https://img.shields.io/badge/Архітектури-16%20Підтримується-blueviolet?style=flat-square)
 Deadfish REPL написаний в C. \
 \
 ([English (US)](README.md))
@@ -16,9 +16,11 @@ Deadfish REPL написаний в C. \
 | **PowerPC x32 MSB** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
 | **RISC-V64** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
 | **RISC-V32** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
-| **SPARC** | ![Незавершено](https://img.shields.io/badge/-Незавершено-orange?style=flat-square) |
+| **SPARC** | ![Ще ні, бо Zig майже не підтримує](https://img.shields.io/badge/-Ще%20ні,%20бо%20Zig%20майже%20не%20підтримує-red?style=flat-square) |
 | **LoongArch 64** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
 | **S390X** | ![Пройдено](https://img.shields.io/badge/-Пройдено-green?style=flat-square) |
+| **x86_64 macOS** | ![N/A](https://img.shields.io/badge/-N%2fA-orange?style=flat-square) |
+| **x86 macOS** | ![N/A](https://img.shields.io/badge/-N%2fA-orange?style=flat-square) |
 ## Що це таке?
 Маленька C программа, яка може виконувати программу написанну в езотеричної программної мови під назвою Deadfish. ([езолангс  вікі](https://esolangs.org/wiki/Deadfish))
 
