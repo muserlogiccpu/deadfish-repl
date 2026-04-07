@@ -58,3 +58,8 @@ It asks for the user input, \
 ## Can I port it?
 
 Yes, you can. Infact, if you don't have your architecture, port it either using zig, or specific versions of gcc to port it.
+
+## Warning
+
+> [!WARNING]
+Everything on this branch is beta, the main release would get the beta stuff, if the beta stuff works.
